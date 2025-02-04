@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there! 👋 I'm John Barros
+
+I am a current freshman at the University of Maryland: Baltimore County majoring in Computer Science w/ a minor in Philosophy and Bioinformatics and Computational Biology!
+
+🔭 I’m currently working on learning C++ and discrete structures
 
 <!--
 **johnbarros281/johnbarros281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
